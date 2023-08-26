@@ -25,11 +25,7 @@
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 0,
-					"source" : "test",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"source" : "test"
 				}
 			],
 			"name" : "Debug",
@@ -41,23 +37,10 @@
 						0,
 						1
 					],
-					"name" : "test",
-					"targetIndexes" : 
-					[
-						0
-					]
+					"name" : "test"
 				}
 			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 1,
-					"id" : "test.out::@36f028580bb02cc8272a",
-					"jsonFile" : "target-test.out-Debug-b372edfe47e208ee69cd.json",
-					"name" : "test.out",
-					"projectIndex" : 0
-				}
-			]
+			"targets" : []
 		}
 	],
 	"kind" : "codemodel",
