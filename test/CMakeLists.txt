@@ -1,0 +1,1 @@
+add_executable(test.out random_test.cpp ../lib/random.hpp ../lib/debug.hpp)
